@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MarsDoodle",
+    "desc": " Real-time drawing and guessing with in-game chat, public/private rooms, and easy friend invites.",
+    "image": "marsdoodle",
+    "category": "mern",
+    "links": {
+      "view": "https://bit2byte.netlify.app/",
+      "code": "https://github.com/HariomJoshi/marsDoodles"
+    }
+  },
+  {
+    "name": "Animerch",
+    "desc": "Detailed anime merchandise listings with high-quality images and reviews. Clean and easy User Interface",
+    "image": "Animerch",
+    "category": "mern",
+    "links": {
+      "view": "https://animefanmerch.netlify.app/",
+      "code": "https://github.com/itsnarutouzumaki/animerch"
+    }
+  },
+  {
+    "name": "CampusConnect.edu",
+    "desc": "integrated platform aimed at enhancing the academic and social experience for college students.",
+    "image": "campusconnect",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/itsnarutouzumaki/CampusConnect"
+    }
+  }
+]

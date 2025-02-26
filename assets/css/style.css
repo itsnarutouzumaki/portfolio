@@ -477,6 +477,7 @@ header .navbar ul li a:hover {
   width: 90%;
   margin: auto;
   margin-top: 2rem;
+  
 }
 .skills .container .row {
   display: grid;
@@ -493,7 +494,7 @@ header .navbar ul li a:hover {
   transition: 0.2s;
 }
 .skills .container .bar:hover {
-  box-shadow: 0 8px 10px rgba(0, 2, 68, 0.8) !important;
+  box-shadow: 0 8px 10px rgba(246, 246, 246, 0.8) !important;
   background-color: rgba(0, 0, 0, 0.9) !important;
 }
 .skills .container .bar .info {

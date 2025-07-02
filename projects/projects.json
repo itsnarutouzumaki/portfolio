@@ -6,7 +6,7 @@
     "category": "mern",
     "links": {
       "view": "https://bit2byte.netlify.app/",
-      "code": "https://github.com/HariomJoshi/marsDoodles"
+      "code": "https://github.com/itsnarutouzumaki/marsDoodles"
     }
   },
   {
@@ -15,7 +15,7 @@
     "image": "Animerch",
     "category": "mern",
     "links": {
-      "view": "https://animefanmerch.netlify.app/",
+      "view": "aniimerch.netlify.app",
       "code": "https://github.com/itsnarutouzumaki/animerch"
     }
   },
@@ -25,7 +25,7 @@
     "image": "campusconnect",
     "category": "mern",
     "links": {
-      "view": "#",
+      "view": "https://campusconnectforstudent.netlify.app/",
       "code": "https://github.com/itsnarutouzumaki/CampusConnect"
     }
   }

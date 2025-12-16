@@ -12,7 +12,7 @@ Portfolio website built using **HTML5**, **CSS3**, **JavaScript**, and **jQuery*
 **Particle.js**, **Typed.js**, **Tilt.js**, **Scroll Reveal**, **Tawk.to**, **Font Awesome**, and **JSON**  
 
 ## 📌 Sneak Peek of Main Page 🙈  
-![Main Page Screenshot](https://github.com/itsnarutouzumaki/portfolio/blob/main/assets/images/projects/Screenshot%202025-01-01%20200243.png?raw=true)  
+![Main Page Screenshot](https://github.com/itsnarutouzumaki/portfolio/blob/main/assets/images/projects/Screenshot%2025-12-16%203106.png?raw=true)  
 ![Section Screenshot](https://github.com/itsnarutouzumaki/portfolio/blob/main/assets/images/projects/Screenshot%202025-01-01%20200410.png?raw=true)  
 
 ## 🛠 Features  

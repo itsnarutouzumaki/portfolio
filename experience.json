@@ -1,0 +1,46 @@
+[
+  {
+    "position": "left",
+    "title": "Technology Developer Intern",
+    "company": "D. E. Shaw India Private Limited",
+    "period": "Jan 2026 – Present",
+    "achievements": [
+      "Migrated AMS Hiring Platform backend from Apache CXF to Spring Boot 3.5 (Java 17) — removed legacy SOAP boilerplate, cleaned up REST contracts, and improved codebase maintainability across a large enterprise monorepo.",
+      "Built the frontend from scratch with React.js, Redux Toolkit, React Hook Form, and Material UI (MUI); set up a Storybook component library (30+ components) that cut UI development time by 3×.",
+      "Removed the Apache reverse proxy and switched to direct HTTPS/HTTP/2 between frontend and backend — unblocked a move from active-passive to active-active deployment, improving fault tolerance and throughput.",
+      "Worked closely with senior engineers through code reviews, enforcing type safety, REST design standards, and Spring Security best practices across shared services."
+    ]
+  },
+  {
+    "position": "right",
+    "title": "React JS Intern",
+    "company": "Assystant Technologies Private Limited",
+    "period": "April 2025 - August 2025",
+    "achievements": [
+      "Built a MERN stack GitHub performance tool with gamification, boosting issue resolution efficiency by 20%.",
+      "Created SVG reports for repos, issues, and dashboards, processing 6,000 GitHub API calls/hour to rank top 10 contributors.",
+      "Developed the SpotAxis frontend for an AI-powered platform that simplifies recruitment workflows."
+    ]
+  },
+  {
+    "position": "left",
+    "title": "Mess manager",
+    "company": "Tagore Hostel, MNNIT",
+    "period": "Aug 2024 - Present",
+    "achievements": []
+  },
+  {
+    "position": "right",
+    "title": "College Technical Support Team",
+    "company": "UP board Examination",
+    "period": "Feb 2023 - March 2023",
+    "achievements": []
+  },
+  {
+    "position": "left",
+    "title": "Teacher (Mathematics , Physics)",
+    "company": "(Class - 9-12 ) | Viswanath Singh Inter College, Buddhpur",
+    "period": "April 2022 - April 2023",
+    "achievements": []
+  }
+]
